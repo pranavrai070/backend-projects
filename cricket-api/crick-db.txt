@@ -1,0 +1,39 @@
+[
+{
+"_id": "62dd796ca9dc2802ba1f7d65",
+"name": "Rohit Sharma",
+"about": "Rohit Gurunath Sharma (born 30 April 1987) is an Indian international cricketer who is the current captain of the Indian national team. A right-handed opening batsman and an occasional right-arm off break bowler, he is widely acknowledged as one of the most outstanding batsmen of current era in limited overs cricket. He plays for Mumbai in domestic cricket. He captains Mumbai Indians in the Indian Premier League and they have won the tournament a record five times under his leadership. Sharma currently holds the world record for the highest individual score (264) in a one-day international match and is the only player to have scored three double-centuries in one-day internationals. He won the ICC Men's ODI Cricketer of the Year award in 2019 after he scored five centuries in the 2019 World Cup. Sharma has received two national honours, the Arjuna Award in 2015 and the prestigious Major Dhyan Chand Khel Ratna in 2020."
+},
+{
+"_id": "62dd7bc1a9dc2802ba1f7d66",
+"name": "Rohit Sharma",
+"about": "Rohit Gurunath Sharma (born 30 April 1987) is an Indian international cricketer who is the current captain of the Indian national team. A right-handed opening batsman and an occasional right-arm off break bowler, he is widely acknowledged as one of the most outstanding batsmen of current era in limited overs cricket. He plays for Mumbai in domestic cricket. He captains Mumbai Indians in the Indian Premier League and they have won the tournament a record five times under his leadership. Sharma currently holds the world record for the highest individual score (264) in a one-day international match and is the only player to have scored three double-centuries in one-day internationals. He won the ICC Men's ODI Cricketer of the Year award in 2019 after he scored five centuries in the 2019 World Cup. Sharma has received two national honours, the Arjuna Award in 2015 and the prestigious Major Dhyan Chand Khel Ratna in 2020."
+},
+{
+"_id": "62dd7beaa9dc2802ba1f7d67",
+"name": "Virat Kohli",
+"about": "Virat Kohli is an Indian international cricketer and former captain of the India national cricket team. He plays for Delhi in domestic cricket and Royal Challengers Bangalore in the Indian Premier League as a right-handed batsman."
+},
+{
+"_id": "62dd7c13a9dc2802ba1f7d68",
+"name": "MS Dhoni",
+"about": "Mahendra Singh Dhoni is an Indian professional cricketer who was captain of the Indian national cricket team in limited-overs formats from 2007 to 2017 and in Test cricket from 2008 to 2014. He is a right-handed wicket-keeper batsman."
+},
+{
+"_id": "62dd7c1da9dc2802ba1f7d69",
+"name": "Sachin Tendulkar",
+"about": "Sachin Ramesh Tendulkar AO BR is an Indian former international cricketer who captained the Indian national team. He is regarded as one of the greatest batsmen in the history of cricket."
+},
+{
+"_id": "62dd8d12d4ac00da72b90faa",
+"name": "Rahul Dravid",
+"about": "Rahul Sharad Dravid is a former Indian cricketer and captain of the Indian national team, currently serving as its head coach. Prior to his appointment to the senior men's national team, Dravid was the Head of Cricket at the National Cricket Academy, and the head coach of the India Under-19 and India A teams.",
+"__v": 0
+},
+{
+"_id": "62dd93c80d55e23a2143628a",
+"name": "Pujara",
+"about": "Cheteshwar Arvind Pujara is an Indian international cricketer who plays Test cricket for India and represents Saurashtra in domestic cricket. He is a right-handed batsman who made his first-class debut for Saurashtra in December 2005 and made his Test debut at Bangalore in October 2010.",
+"__v": 0
+}
+]
