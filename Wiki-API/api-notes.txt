@@ -1,0 +1,26 @@
+    {
+        "_id": "62dccdb6c900ab4a757d4c3b",
+        "title": "REST",
+        "content": "A REST API stands for REpresentational State Transfer API. REST is a set of rules that allow users to create a uniform API that will be usable by anyone using any API."
+    },
+    {
+        "_id": "5c139771d79ac8eac11e754a",
+        "title": "API",
+        "content": "API stands for Application Programming Interface. It is a set of subroutine definitions, communication protocols, and tools for building software. In general terms, it is a set of clearly defined methods of communication among various components. A good API makes it easier to develop a computer program by providing all the building blocks, which are then put together by the programmer."
+    },
+    {
+        "_id": "62dcd2aac900ab4a757d4c42",
+        "title": "Bootstrap",
+        "content": "Bootstrap is a free and open source front end development framework for the creation of websites and web apps. "
+    },
+    {
+        "_id": "62dcd2b2c900ab4a757d4c43",
+        "title": "JavaScript",
+        "content": "Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers. "
+    },
+    {
+        "_id": "62dcea59f9c807bba5eaf767",
+        "title": "Pranav",
+        "content": "Hello everybody my name is Pranva Rai I am a full stack developer and now making an API or say playing with an API to upgrade my skills in field of web dev.",
+        "__v": 0
+    }
